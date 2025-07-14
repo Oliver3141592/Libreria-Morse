@@ -73,14 +73,14 @@ UsoLibreriaMorse
 
 ## 🖥️ Capturas de pantalla
 
-### Interfaz de usuario (PruebaVisual)
-![Interfaz de usuario](capturas/Captura1.png)  
+### Interfaz de usuario
+![Interfaz de usuario](capturas/Captura1.png)
 
 ### Selección de opciones
-![Selección de opciones](capturas/Captura2.png)  
+![Selección de opciones](capturas/Captura2.png)
 
-### Resultado de la conversión
-![Resultado](capturas/Captura3.png)  
+### Resultado
+![Resultado](capturas/Captura3.png)
 
 ---
 
