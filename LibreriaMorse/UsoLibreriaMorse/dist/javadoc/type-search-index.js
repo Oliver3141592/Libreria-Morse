@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"usolibreriamorse.LibreriaValidacion","l":"LibreriaMorse"},{"p":"usolibreriamorse","l":"PruebaVisual"},{"p":"usolibreriamorse","l":"UsoLibreriaMorse"}];updateSearchResults();
